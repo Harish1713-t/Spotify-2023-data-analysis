@@ -3,7 +3,7 @@
 <p align="center">  
 	<br>
 	<a href="https://open.spotify.com/">
-        <img src="https://media.istockphoto.com/id/1312224946/photo/an-iphone-11-screen-showing-spotify-icon.jpg?s=2048x2048&w=is&k=20&c=TtPba80nw6fNSz-TnDj95Xqayyv27MXyBR9MkUpqwAo=s"> 
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fspotify%2F&psig=AOvVaw06NnwfH-taNNPFIAH1eO9O&ust=1734109662322000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCkk7_coooDFQAAAAAdAAAAABAE"> 
     </a>
     <br>
     <br>
