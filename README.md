@@ -3,7 +3,7 @@
 <p align="center">  
 	<br>
 	<a href="https://open.spotify.com/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.YQg9PUaYHoYCyG2SqFWSwwHaDt%26pid%3DApi&f=1&ipt=d62add352227128017bbc009d68f3ca869e386ae81a22badab1b028fa5cba1d3&ipo=images"> 
+        <img src="https://media.istockphoto.com/id/1312224946/photo/an-iphone-11-screen-showing-spotify-icon.jpg?s=2048x2048&w=is&k=20&c=TtPba80nw6fNSz-TnDj95Xqayyv27MXyBR9MkUpqwAo=s"> 
     </a>
     <br>
     <br>
@@ -218,18 +218,6 @@ Happy querying and may your exploration of this dataset be both insightful and h
 
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 
-
-## Contributing
-
-`Contributions` are always welcome !!
-
-If you would like to contribute to the project, please `fork` the repository and make a `pull request`.
-
---
-
-Feel free to `add more questions` and contribute to the exploration of this dataset!
-
-If you find any issues with existing questions or their solutions, please `create an issue` and provide the correct solutions.
 
 
 
