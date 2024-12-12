@@ -3,7 +3,7 @@
 <p align="center">  
 	<br>
 	<a href="https://open.spotify.com/">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fspotify%2F&psig=AOvVaw06NnwfH-taNNPFIAH1eO9O&ust=1734109662322000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCkk7_coooDFQAAAAAdAAAAABAE"> 
+        <img src="https://www.investopedia.com/thmb/rObac5XYNI4Kb5yo4ty9Zx0gfHw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2151457570-cf0f88e8985a4b568f3330944f5b2f8a.jpg"> 
     </a>
     <br>
     <br>
