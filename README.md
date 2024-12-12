@@ -223,6 +223,6 @@ Happy querying and may your exploration of this dataset be both insightful and h
 
 ## Support
 
-If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn](https://www.linkedin.com/in/faizanxmulla/).
+If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn](https://www.linkedin.com/in/harishvenkat477853143/).
 
 Do ⭐ the repository, if it inspired you, gave you ideas of your own or helped you in any way !!
